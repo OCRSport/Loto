@@ -1,2 +1,0 @@
-# Loto
-Game Loto
